@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MockSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-21T02:50:57" hostname="Youyuans-MacBook-Pro.local" time="0.569">
+  <properties/>
+  <testcase name="should send messages to all subscribers in partial mock" classname="MockSpec" time="0.569"/>
+  <system-out><![CDATA[persist msg
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
